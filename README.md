@@ -1,4 +1,4 @@
-### Hey👋, I'm I. G Ifeanyichukwu (Ifex)
+### Hey👋, I'm Ifeanyichukwu Gideon Idoko (Ifex)
 
 I'm a self-taught Frontend Developer🤓 based in Nigeria. I'm interested in tech💡, programming, design, writing, research, blogging and community building.
 
