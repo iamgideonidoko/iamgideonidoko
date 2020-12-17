@@ -1,4 +1,4 @@
-### Hey👋, I'm Ifeanyichukwu Gideon Idoko (Ifex)
+### Hey👋, I'm Gideon Idoko
 
 I'm a self-taught Frontend Developer🤓 based in Nigeria. I'm interested in tech💡, programming, design, writing, research, blogging and community building.
 
@@ -8,8 +8,8 @@ I'm a self-taught Frontend Developer🤓 based in Nigeria. I'm interested in tec
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: My everything = Family🤞 + Jesus😇
 - 🤝 Connect with me💙:
-    - [Twitter](https://twitter.com/IGIfeanyichukwu)
-    - [LinkedIn](https://linkedin.com/in/IGIfeanyichukwu)
-    - [Personal Website](https://ig-ifex.netlify.app)
-    - [Codepen](https://codepen.io/IGIfeanyichukwu)
-    - [Email](mailto:if3cofr3sh@gmail.com)
+    - [Twitter](https://twitter.com/IamGideonIdoko)
+    - [LinkedIn](https://linkedin.com/in/IamGideonIdoko)
+    - [Personal Website](https://gideonidoko.netlify.app)
+    - [Codepen](https://codepen.io/IamGideonIdoko)
+    - [Email](mailto:iamgideonidoko@gmail.com)
