@@ -13,3 +13,7 @@ I'm a Software Developer & Technical Writer🤓 based in Nigeria. I'm interested
     - [Personal Website](https://gideonidoko.com)
     - [Codepen](https://codepen.io/IamGideonIdoko)
     - [Email](mailto:iamgideonidoko@gmail.com)
+
+![Gideon](gitartwork1.svg)
+
+![Idoko](gitartwork.svg)
