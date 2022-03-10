@@ -16,4 +16,4 @@ I'm a Software Developer & Technical Writer🤓 based in Nigeria. I'm interested
 
 ![Gideon](gitartwork1.svg)
 
-![Idoko](gitartwork.svg)
+![Idoko](gitartwork3.svg)
