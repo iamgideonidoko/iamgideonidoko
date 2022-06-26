@@ -1,5 +1,9 @@
 ### Hey👋, I'm Gideon Idoko
 
+![Gideon](gitartwork1.svg)
+
+![Idoko](gitartwork3.svg)
+
 I'm a Software Developer & Technical Writer🤓 based in Nigeria. I'm interested in tech💡, programming, design, writing, research, blogging and community building.
 
 - 💬 AMA about: Me, Self Learning, Technology, Web development/tools and ... anything non-private😉. 
@@ -8,12 +12,9 @@ I'm a Software Developer & Technical Writer🤓 based in Nigeria. I'm interested
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: My everything = Family🤞 + Jesus😇
 - 🤝 Connect with me💙:
+    - [Personal Website](https://gideonidoko.com)
+    - [Blog](https://gideonidoko.com/blog)
     - [Twitter](https://twitter.com/IamGideonIdoko)
     - [LinkedIn](https://linkedin.com/in/IamGideonIdoko)
-    - [Personal Website](https://gideonidoko.com)
     - [Codepen](https://codepen.io/IamGideonIdoko)
     - [Email](mailto:iamgideonidoko@gmail.com)
-
-![Gideon](gitartwork1.svg)
-
-![Idoko](gitartwork3.svg)
