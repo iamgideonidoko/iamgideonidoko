@@ -1,4 +1,4 @@
-### Hey ![https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif], I'm Gideon Idoko
+### Hey ![👋🏽](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif), I'm Gideon Idoko
 
 ![Gideon](gitartwork1.svg)
 
