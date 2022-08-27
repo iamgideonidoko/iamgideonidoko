@@ -4,7 +4,7 @@
 
 ![Idoko](gitartwork3.svg)
 
-I'm a Software Developer & Technical Writer🤓 based in Nigeria. I'm interested in tech💡, programming, design, writing, research, blogging and community building.
+I'm a Software Engineer & Technical Writer🤓 based in Nigeria. I'm interested in tech💡, programming, design, writing, research, blogging and community building.
 
 - 💬 AMA about: Me, Self Learning, Technology, Web development/tools and ... anything non-private😉. 
 - 💪 I'm currently building a good reputation, undergoing self-develoment🚀 and learning everything :).
