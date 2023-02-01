@@ -1,8 +1,8 @@
 ### Hey&nbsp;<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="👋🏽" width="22px" height="22px"> , I'm Gideon Idoko
 
-![Gideon](gitartwork1.svg)
+![Gideon](firstname.svg)
 
-![Idoko](gitartwork3.svg)
+![Idoko](surname.svg)
 
 I'm a Software Engineer & Technical Writer🤓 based in Nigeria. I'm interested in tech💡, programming, design, writing, research, blogging and community building.
 
