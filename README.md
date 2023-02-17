@@ -12,7 +12,7 @@ I'm a Software Engineer & Technical Writer🤓 based in Nigeria. I'm interested 
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: My everything = Family🤞 + Jesus😇
 - 🤝 Connect with me💙:
-    - [Personal Website: gideonidoko.com](https://gideonidoko.com)
+    - [My Website](https://gideonidoko.com)
     - [Blog](https://gideonidoko.com/blog)
     - [Twitter](https://twitter.com/IamGideonIdoko)
     - [LinkedIn](https://linkedin.com/in/IamGideonIdoko)
