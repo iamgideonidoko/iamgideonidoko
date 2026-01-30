@@ -5,6 +5,6 @@
 
 ![art](./art.svg)
 
-  <p>Software Engineer 🤓 interested in creative tech 🎨, design, research, writing and building +ve solutions.</p>
+  <p>Software Engineer 🤓 interested in creative tech 🎨, design, AI, research, writing and building +ve solutions.</p>
   <p><strong><a href="https://gideonidoko.com/uses">TOOLS</a></strong></p>
 </div>
